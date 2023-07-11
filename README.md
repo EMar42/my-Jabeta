@@ -2,6 +2,9 @@
 
 This is a simple chatbot implementation using the ConversationalRetrievalChain from the LangChain library. It utilizes the OpenAI language model to provide conversational responses based on a given input.
 
+![image](https://github.com/EMar42/my-Jabeta/assets/36295473/ca5b8957-45ad-4659-a99d-127c33c0a7bf)
+
+
 ## Prerequisites
 
 Before running the chatbot, make sure you have the following requirements installed:
